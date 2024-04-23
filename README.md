@@ -31,3 +31,4 @@ MMM doesn't need to track individual customers to make these insights. Instead, 
 1. Mmm example notebook#. pymc. (n.d.). https://www.pymc-marketing.io/en/stable/notebooks/mmm/mmm_example.html 
 2. Sanchez, M. (2024, March 13). Why is validation challenging in MMM? what are the different ways to validate?. Recast. https://getrecast.com/why-is-validation-challenging-in-mmm/
 3. Jin, Y., Wang, Y., Sun, Y., Chan, D., & Koehler, J. (2017). Bayesian methods for media mix modeling with carryover and shape effects. Google Research.
+4. Anderson, Anthony (2024). Multi-Region Marketing Mix Modelling (MMM) Dataset for Several eCommerce Brands. figshare. Dataset. https://doi.org/10.6084/m9.figshare.25314841.v2
